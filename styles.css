@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital CV</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <section class="cv-container">
+            <div class="cv-header">
+                <div class="personal-info">
+                    <h2>Lê Quang Trường</h2>
+                    <p><strong>Ngày sinh:</strong> 19/05/2000</p>
+                    <p><strong>Giới tính:</strong> Nam</p>
+                    <p><strong>Điện thoại:</strong> (+84) 912345678</p>
+                    <p><strong>Email:</strong> truonglq204@gmail.com</p>
+                    <p><strong>Địa chỉ:</strong> Đà Nẵng , Việt Nam</p>
+                    <p><strong>Website:</strong> <a href="https://webschool.com" target="_blank">https://webschool.com</a></p>
+                </div>
+                <div class="profile-pic">
+                    <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/450202308_1160053528580221_916385084462105844_n.jpg?stp=dst-jpg_p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AR5zpUL-Zc4Q7kNvgHsDbW9&_nc_ht=scontent.fdad2-1.fna&oh=00_AYB5aykdnokJEK3Ay7HPMd6tqB0olPoljNDI5h_PP5bEiQ&oe=66908A45" alt="Lê Quang Trường">
+                </div>
+            </div>
+
+            <div class="section-divider"></div> <!-- Đường kẻ phân cách đầu tiên -->
+
+            <div class="cv-section">
+                <h3>Mục Tiêu Nghề Nghiệp</h3>
+                <p>Là một sinh viên đã hoàn thành chương trình chứng chỉ Doanh nghiệp của FUNiX. Em mong muốn mình sẽ được làm việc với vị trí Fullstack Developer, nơi có thể vận dụng những kiến thức đã được trao dồi và không ngừng học hỏi để phát triển bản thân, cũng như hoàn thành tốt nhất những yêu cầu được giao.</p>
+            </div>
+
+            <div class="section-divider"></div> <!-- Đường kẻ phân cách thứ hai -->
+
+            <div class="cv-section">
+                <h3>Học Vấn</h3>
+                <ul>
+                    <li>
+                        <strong>FUNiX</strong> (06/2021 - 05/2022)
+                        <p>Tốt nghiệp chứng chỉ doanh nghiệp nhàm Fullstack. GPA: 3.0 / 4.0</p>
+                    </li>
+                    <li>
+                        <strong>FPT</strong> (08/2016 - 07/2019)
+                        <p>Chuyên ngành: Kỹ thuật phần mềm. GPA: 3.2 / 4</p>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="section-divider"></div> <!-- Đường kẻ phân cách thứ ba -->
+
+            <div class="cv-section">
+                <h3>Kinh Nghiệm Làm Việc</h3>
+                <ul>
+                    <li>
+                        <strong>Công ty Y</strong> (05/2022 - Hiện tại)
+                        <p>Full Stack Developer</p>
+                        <ul>
+                            <li>Xây dựng, phát triển Website dựa trên thiết kế và yêu cầu của đối tác.</li>
+                            <li>Phân tích và thiết kế Database, sử dụng các hệ quản trị CSDL (MySQL, SQLServer, NoSQL, ...), và viết được các câu truy vấn.</li>
+                            <li>Sử dụng ngôn ngữ server-side (Python, Java, ...) để xây dựng các Web Service.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Công ty X</strong> (06/2021 - 04/2022)
+                        <p>Web Designer</p>
+                        <ul>
+                            <li>Thiết kế Website và triển khai yêu cầu của khách hàng.</li>
+                            <li>Sử dụng các công cụ: Figma, Canva, PTS.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="section-divider"></div> <!-- Đường kẻ phân cách thứ tư -->
+
+            <div class="cv-section">
+                <h3>Hoạt Động</h3>
+                <ul>
+                    <li>
+                        <strong>FPT Edu Hackathon 2019</strong> (03/2019 - 05/2019)
+                        <p>Giải 3 toàn quốc</p>
+                    </li>
+                    <li>
+                        <strong>Câu lạc bộ FPT</strong> (08/2016 - 08/2017)
+                        <p>Thành viên chuyên môn</p>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="section-divider"></div> <!-- Đường kẻ phân cách thứ năm -->
+
+            <div class="cv-section">
+                <h3>Kỹ Năng</h3>
+                <ul>
+                    <li>HTML/CSS: Fundamental</li>
+                    <li>JavaScript: Intermediate</li>
+                    <li>Node.js: Intermediate</li>
+                    <li>Bootstrap 5: Fundamental</li>
+                </ul>
+            </div>
+
+            <div class="section-divider"></div> <!-- Đường kẻ phân cách thứ sáu -->
+
+            <div class="cv-section">
+                <h3>Chứng Chỉ - Giải Thưởng</h3>
+                <ul>
+                    <li>2021: Chứng chỉ lập trình web - FUNiX</li>
+                    <li>2021: Chứng chỉ lập trình JavaScript - FUNiX</li>
+                </ul>
+            </div>
+
+            <div class="section-divider"></div> <!-- Đường kẻ phân cách thứ bảy -->
+
+            <div class="cv-section">
+                <h3>Sở Thích</h3>
+                <ul>
+                    <li>Âm nhạc</li>
+                    <li>Chơi game</li>
+                </ul>
+            </div>
+
+            <div class="section-divider"></div> <!-- Đường kẻ phân cách thứ tám -->
+
+            <div class="cv-section">
+                <h3>Dự Án</h3>
+                <ul>
+                    <li>
+                        <strong>Trang web quản lý thú cưng</strong> (2023)
+                        <p>Vai trò: Web Developer</p>
+                        <p>Mô tả: Xây dựng hệ thống quản lý các thông tin của thú cưng như: Cân nặng, giống, tình trạng tiêm chủng,... Bảo mật thông tin bằng hệ thống JWT.</p>
+                        <p>Công nghệ: HTML, CSS</p>
+                    </li>
+                    <li>
+                        <strong>Trang web xem tin tức</strong> (2022)
+                        <p>Vai trò: Web Developer</p>
+                        <p>Mô tả: Xây dựng trang web tin tức với nhiều nguồn khác nhau, người dùng có thể tìm kiếm các tin tức dựa theo các danh mục khác nhau.</p>
+                        <p>Công nghệ: HTML, CSS</p>
+                    </li>
+                    <li>
+                        <strong>Ứng dụng quản lý công việc</strong> (2021)
+                        <p>Vai trò: Mobile Developer</p>
+                        <p>Mô tả: Xây dựng ứng dụng quản lý công việc cá nhân online. Các chức năng: Đăng ký, Đăng nhập, Tạo lịch trình công việc.</p>
+                        <p>Công nghệ: HTML, CSS</p>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="section-divider"></div> <!-- Đường kẻ phân cách thứ chín -->
+
+            <div class="cv-section">
+                <h3>Liên Hệ</h3>
+                <ul>
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">LinkedIn</a></li>
+                    <li><a href="#">GitHub</a></li>
+                </ul>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
